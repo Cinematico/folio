@@ -1,9 +1,9 @@
-## Theme Name
+## Name
 - Folio
 
-## Theme Author
+## Author
 - Cinematico
 - Cinemati.co
 
-## Current Version
-- 1.0.0
+## Version
+- 1.0
